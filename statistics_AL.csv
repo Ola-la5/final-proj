@@ -1,0 +1,100 @@
+year,league,statistic,player,value,team
+1901,American League,Base on Balls,Dummy Hoy,86.0,Chicago
+1901,American League,Batting Average,Nap Lajoie,0.426,Philadelphia
+1901,American League,Doubles,Nap Lajoie,48.0,Philadelphia
+1901,American League,Hits,Nap Lajoie,232.0,Philadelphia
+1901,American League,Home Runs,Nap Lajoie,14.0,Philadelphia
+1902,American League,Base on Balls,Topsy Hartsel,87.0,Philadelphia
+1902,American League,Batting Average,Ed Delahanty,0.376,Washington
+1902,American League,Doubles,Harry Davis,43.0,Philadelphia
+1902,American League,Hits,Charlie Hickman,193.0,Boston
+1902,American League,Home Runs,Socks Seybold,16.0,Philadelphia
+1903,American League,Base on Balls,Jimmy Barrett,74.0,Detroit
+1903,American League,Batting Average,Nap Lajoie,0.344,Cleveland
+1903,American League,Doubles,Socks Seybold,45.0,Philadelphia
+1903,American League,Hits,Patsy Dougherty,195.0,Boston
+1903,American League,Home Runs,Buck Freeman,13.0,Boston
+1904,American League,Base on Balls,Jimmy Barrett,79.0,Detroit
+1904,American League,Batting Average,Nap Lajoie,0.376,Cleveland
+1904,American League,Doubles,Nap Lajoie,49.0,Cleveland
+1904,American League,Hits,Nap Lajoie,211.0,Cleveland
+1904,American League,Home Runs,Harry Davis,10.0,Philadelphia
+1905,American League,Base on Balls,Topsy Hartsel,121.0,Philadelphia
+1905,American League,Batting Average,Elmer Flick,0.308,Cleveland
+1905,American League,Doubles,Harry Davis,47.0,Philadelphia
+1905,American League,Hits,George Stone,187.0,St. Louis
+1905,American League,Home Runs,Harry Davis,8.0,Philadelphia
+1906,American League,Base on Balls,Topsy Hartsel,88.0,Philadelphia
+1906,American League,Batting Average,George Stone,0.358,St. Louis
+1906,American League,Doubles,Nap Lajoie,48.0,Cleveland
+1906,American League,Hits,Nap Lajoie,214.0,Cleveland
+1906,American League,Home Runs,Harry Davis,12.0,Philadelphia
+1907,American League,Base on Balls,Topsy Hartsel,106.0,Philadelphia
+1907,American League,Batting Average,Ty Cobb,0.35,Detroit
+1907,American League,Doubles,Harry Davis,35.0,Philadelphia
+1907,American League,Hits,Ty Cobb,212.0,Detroit
+1907,American League,Home Runs,Harry Davis,8.0,Philadelphia
+1908,American League,Base on Balls,Topsy Hartsel,93.0,Philadelphia
+1908,American League,Batting Average,Ty Cobb,0.324,Detroit
+1908,American League,Doubles,Ty Cobb,36.0,Detroit
+1908,American League,Hits,Ty Cobb,188.0,Detroit
+1908,American League,Home Runs,Sam Crawford,7.0,Detroit
+1909,American League,Base on Balls,Donie Bush,88.0,Detroit
+1909,American League,Batting Average,Ty Cobb,0.377,Detroit
+1909,American League,Doubles,Sam Crawford,35.0,Detroit
+1909,American League,Hits,Ty Cobb,216.0,Detroit
+1909,American League,Home Runs,Ty Cobb,9.0,Detroit
+1910,American League,Base on Balls,Donie Bush,78.0,Detroit
+1910,American League,Doubles,Nap Lajoie,51.0,Cleveland
+1910,American League,Hits,Nap Lajoie,227.0,Cleveland
+1910,American League,Home Runs,Jake Stahl,10.0,Boston
+1911,American League,Base on Balls,Donie Bush,98.0,Detroit
+1911,American League,Batting Average,Ty Cobb,0.419,Detroit
+1911,American League,Doubles,Ty Cobb,47.0,Detroit
+1911,American League,Hits,Ty Cobb,248.0,Detroit
+1911,American League,Home Runs,Frank Baker,11.0,Philadelphia
+1912,American League,Base on Balls,Donie Bush,117.0,Detroit
+1912,American League,Batting Average,Ty Cobb,0.409,Detroit
+1912,American League,Doubles,Tris Speaker,53.0,Boston
+1912,American League,Hits,Ty Cobb,226.0,Detroit
+1912,American League,Home Runs,Frank Baker,10.0,Philadelphia
+1913,American League,Base on Balls,Burt Shotton,99.0,St. Louis
+1913,American League,Batting Average,Ty Cobb,0.389,Detroit
+1913,American League,Doubles,Joe Jackson,39.0,Cleveland
+1913,American League,Hits,Joe Jackson,197.0,Cleveland
+1913,American League,Home Runs,Frank Baker,12.0,Philadelphia
+1914,American League,Base on Balls,Donie Bush,112.0,Detroit
+1914,American League,Batting Average,Ty Cobb *,0.368,Detroit
+1914,American League,Doubles,Tris Speaker,46.0,Boston
+1914,American League,Hits,Tris Speaker,193.0,Boston
+1914,American League,Home Runs,Frank Baker,9.0,Philadelphia
+1915,American League,Base on Balls,Eddie Collins,119.0,Chicago
+1915,American League,Batting Average,Ty Cobb,0.369,Detroit
+1915,American League,Doubles,Bobby Veach,40.0,Detroit
+1915,American League,Hits,Ty Cobb,208.0,Detroit
+1915,American League,Home Runs,Braggo Roth,7.0,Chicago
+1916,American League,Base on Balls,Burt Shotton,110.0,St. Louis
+1916,American League,Batting Average,Tris Speaker,0.386,Cleveland
+1916,American League,Doubles,Jack Graney,41.0,Cleveland
+1916,American League,Hits,Tris Speaker,211.0,Cleveland
+1916,American League,Home Runs,Wally Pipp,12.0,New York
+1917,American League,Base on Balls,Jack Graney,94.0,Cleveland
+1917,American League,Batting Average,Ty Cobb,0.383,Detroit
+1917,American League,Doubles,Ty Cobb,44.0,Detroit
+1917,American League,Hits,Ty Cobb,225.0,Detroit
+1917,American League,Home Runs,Wally Pipp,9.0,New York
+1918,American League,Base on Balls,Ray Chapman,84.0,Cleveland
+1918,American League,Batting Average,Ty Cobb,0.382,Detroit
+1918,American League,Doubles,Tris Speaker,33.0,Cleveland
+1918,American League,Hits,George Burns,178.0,Philadelphia
+1918,American League,Home Runs,Babe Ruth,11.0,Boston
+1919,American League,Base on Balls,Jack Graney,105.0,Cleveland
+1919,American League,Batting Average,Ty Cobb,0.384,Detroit
+1919,American League,Doubles,BobbyVeach,45.0,Detroit
+1919,American League,Hits,Ty Cobb,191.0,Detroit
+1919,American League,Home Runs,Babe Ruth,29.0,Boston
+1920,American League,Base on Balls,Babe Ruth,150.0,New York
+1920,American League,Batting Average,George Sisler,0.407,St. Louis
+1920,American League,Doubles,Tris Speaker,50.0,Cleveland
+1920,American League,Hits,George Sisler,257.0,St. Louis
+1920,American League,Home Runs,Babe Ruth,54.0,New York
